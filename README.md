@@ -1,3 +1,3 @@
-# Frontend Mentor - Coding Bootcamp Testimonials Slider
-
+# Frontend Mentor - Testimonials Slider
+https://sunjus.github.io/testimonialslider/
 
